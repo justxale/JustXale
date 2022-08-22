@@ -1,1 +1,4 @@
-![MrOlegTitov's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustXale&show_icons=true&theme=radical)
+# Github Stats
+![JustXale's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrolegtitov&show_icons=true&theme=radical)
+# Top Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrolegtitov&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
