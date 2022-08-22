@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JustXale&show_icons=true&theme=radical]
+![MrOlegTitov's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustXale&show_icons=true&theme=radical)
